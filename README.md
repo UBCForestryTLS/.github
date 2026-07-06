@@ -1,1 +1,1 @@
-🌳 Welcome to the UBC Faculty of Forestry & Environmental Stewardship (FES) GitHub organization! 🌱
+This is the internal repository for the UBC FES TLS GitHub organization.
